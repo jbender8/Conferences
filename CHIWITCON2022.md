@@ -114,4 +114,4 @@ b. Adele Goldberg
 c. Grace Hopper  
 d. Annie Easley  
 
-### [Click here for the answers!]()
+### [Click here for the answers!](https://github.com/jbender8/Conferences/blob/main/CHIWITCON2022_Triva.md)
