@@ -1,4 +1,4 @@
-## SPOILER ALERT! Answers to the trivia questions found [HERE]() are below!
+## SPOILER ALERT! Answers to the trivia questions found [HERE](https://github.com/jbender8/Conferences/blob/main/CHIWITCON2022.md) are below!
 
 __1. Who recorded the world’s first ever real computer bug? It is often said she coined the phrase, “it is often easier to ask for forgiveness than to ask for permission”__  
 a. Mary Wilkes  
